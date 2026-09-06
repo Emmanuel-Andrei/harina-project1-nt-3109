@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<h1>My Resume</h1>
+
+<img src="Harina_Emmanuel_Andrei.jpg" alt="My profile Photo" width="100"> 
+
+<h2>Summary</h2>
+
+<p>
+    A student with a big dream that seeks an oppurtunities 
+</p>
+
+<h3>Education</h3>
+<ul>
+    <li>Holy Family Montessori Elementary - 2017</li>
+    <li>Holy Family Montessori High School - 2021</li>
+    <li>Holy Family Montessori Senior High School - 2023</li>
+    <li>Batangas State University</li>
+</ul>
+
+<h4>Skills</h4>
+<ol>
+    <li>HTML</li>
+    <li>Basic Computer Networking</li>
+    <li>Database Management System</li>
+
+</ol>
+</html>
+
+<hr>
+
+<a href="me.html"> My Hobbies</a>
