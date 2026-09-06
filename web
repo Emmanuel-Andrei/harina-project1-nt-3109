@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+     <h1>Contacts</h1>
+
+    <ul>
+        <li>Email: andreiharina@example.com</li>
+        <li>Phone: 09493369558</li>
+        <li>Address: 0033, Concepcion, Batangas City</li>
+    </ul>
+    <hr>
+
+    <h1>My Hobbies</h1>
+
+    <ul>
+        <li>Driving</li>
+        <li>Playing billiards</li>
+        <li>Watching Netflix series</li>
+    </ul>
+    <hr>
+
+
+    <footer>
+        <p>&copy; 2026 Emmanuel Andrei Harina</p>
+    </footer>
+
+</html>
